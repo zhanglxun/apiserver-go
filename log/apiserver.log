@@ -1,0 +1,146 @@
+{"level":"INFO","timestamp":"2018-09-11 20:42:58.319","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-11 20:42:58.320","file":"apiserver/main.go:52","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-11 20:43:35.712","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-11 20:43:35.714","file":"apiserver/main.go:52","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2018-09-11 23:03:09.223","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-11 23:03:09.223","file":"apiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-11 23:03:09.223","file":"apiserver/main.go:61","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"ERROR","timestamp":"2018-09-11 23:03:30.561","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-11 23:03:30.561","file":"apiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-11 23:03:30.561","file":"apiserver/main.go:61","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"ERROR","timestamp":"2018-09-11 23:04:08.448","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-11 23:04:08.448","file":"apiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-11 23:04:08.449","file":"apiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2018-09-11 23:04:57.108","file":"user/create.go:27","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2018-09-11 23:04:57.109","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:04:57.109","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:30.634","file":"user/create.go:27","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2018-09-11 23:05:30.634","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:30.634","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:43.065","file":"user/create.go:27","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2018-09-11 23:05:43.065","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:43.065","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:43.911","file":"user/create.go:27","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2018-09-11 23:05:43.911","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:43.911","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:53.522","file":"user/create.go:27","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2018-09-11 23:05:53.522","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:53.522","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:55.008","file":"user/create.go:27","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2018-09-11 23:05:55.008","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:05:55.008","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:07:01.440","file":"user/create.go:27","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2018-09-11 23:07:01.440","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:07:01.440","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:09:04.459","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:09:17.217","file":"user/create.go:27","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:09:23.641","file":"user/create.go:27","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-09-11 23:09:23.641","file":"user/create.go:31","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-11 23:09:23.641","file":"user/create.go:35","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:09:31.546","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:14:10.993","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:14:14.393","file":"user/create.go:27","msg":"username is: [admin1], password is [admin1]"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:14:15.298","file":"user/create.go:27","msg":"username is: [admin1], password is [admin1]"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:15:46.876","file":"user/create.go:27","msg":"username is: [admin1], password is [admin1]"}
+{"level":"ERROR","timestamp":"2018-09-11 23:46:39.079","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-11 23:46:39.079","file":"apiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-11 23:46:39.080","file":"apiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2018-09-11 23:46:47.328","file":"user/create.go:28","msg":"username is: [admin1], password is [admin1]"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:46:48.151","file":"user/create.go:28","msg":"username is: [admin1], password is [admin1]"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:47:36.979","file":"user/create.go:28","msg":"username is: [admin1], password is [admin1]"}
+{"level":"INFO","timestamp":"2018-09-11 23:49:55.181","file":"user/create2.go:22","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-11 23:49:55.181","file":"user/create2.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-11 23:49:55.181","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:49:55.181","file":"user/create2.go:30","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:50:05.906","file":"user/create2.go:22","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-11 23:50:05.906","file":"user/create2.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-11 23:50:05.906","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:50:05.906","file":"user/create2.go:30","msg":"username is: [admin4], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:50:58.771","file":"user/create2.go:22","msg":"URL username: adminn2"}
+{"level":"INFO","timestamp":"2018-09-11 23:50:58.771","file":"user/create2.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-11 23:50:58.771","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:50:58.771","file":"user/create2.go:30","msg":"username is: [admin4], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:00.688","file":"user/create2.go:22","msg":"URL username: adminn2"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:00.688","file":"user/create2.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:00.688","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:51:00.688","file":"user/create2.go:30","msg":"username is: [admin4], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:06.396","file":"user/create2.go:22","msg":"URL username: adminn"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:06.396","file":"user/create2.go:25","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2018-09-11 23:51:06.396","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:51:06.396","file":"user/create2.go:30","msg":"username is: [admin4], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:07.344","file":"user/create2.go:22","msg":"URL username: adminn"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:07.344","file":"user/create2.go:25","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2018-09-11 23:51:07.344","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:51:07.344","file":"user/create2.go:30","msg":"username is: [admin4], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:12.745","file":"user/create2.go:22","msg":"URL username: adminn"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:12.745","file":"user/create2.go:25","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2018-09-11 23:51:12.745","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:51:12.745","file":"user/create2.go:30","msg":"username is: [admin6], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:51.460","file":"user/create2.go:22","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:51.460","file":"user/create2.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-11 23:51:51.460","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:51:51.460","file":"user/create2.go:30","msg":"username is: [admin6], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-11 23:52:01.713","file":"user/create2.go:22","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-11 23:52:01.713","file":"user/create2.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-11 23:52:01.713","file":"user/create2.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-11 23:52:01.713","file":"user/create2.go:30","msg":"username is: [admin6], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-09-12 01:36:28.578","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-12 01:36:28.578","file":"apiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 01:36:28.579","file":"apiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-12 01:36:37.689","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-12 01:40:13.505","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"ERROR","timestamp":"2018-09-12 21:21:40.953","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-12 21:21:40.954","file":"apiserver/main.go:60","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 21:21:40.955","file":"apiserver/main.go:57","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-12 21:23:09.360","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"ERROR","timestamp":"2018-09-12 22:06:03.977","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-12 22:06:03.977","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 22:06:03.977","file":"apiserver/main.go:67","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"ERROR","timestamp":"2018-09-12 22:06:16.235","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-12 22:06:16.235","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 22:06:16.235","file":"apiserver/main.go:67","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"ERROR","timestamp":"2018-09-12 22:06:45.179","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-12 22:06:45.179","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 22:06:45.180","file":"apiserver/main.go:63","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-12 22:07:08.260","file":"middleware/logging.go:83","msg":"29.23391ms    | ::1          | GET /v1/user/jarvis | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-12 22:07:12.235","file":"middleware/logging.go:83","msg":"53.838431ms   | ::1          | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-12 22:07:21.900","file":"middleware/logging.go:83","msg":"37.476735ms   | ::1          | GET /v1/user/jarvis | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2018-09-12 22:10:04.333","file":"middleware/logging.go:75","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2018-09-12 22:10:04.333","file":"middleware/logging.go:83","msg":"41.537µs      | ::1          | POST /v1/user/admin2 | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2018-09-12 22:10:28.278","file":"middleware/logging.go:83","msg":"69.156887ms   | ::1          | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-12 22:11:02.529","file":"middleware/logging.go:83","msg":"45.648087ms   | ::1          | GET /v1/user | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2018-09-12 22:11:25.954","file":"middleware/logging.go:75","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2018-09-12 22:11:25.954","file":"middleware/logging.go:83","msg":"37.281µs      | ::1          | POST /v1/user/admin2 | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2018-09-12 22:13:09.370","file":"config/config.go:73","msg":"Config file changed: /Users/jarvischang/go/src/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-12 22:13:15.484","file":"config/config.go:73","msg":"Config file changed: /Users/jarvischang/go/src/apiserver/conf/config.yaml"}
+{"level":"ERROR","timestamp":"2018-09-12 23:44:46.066","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-12 23:44:46.066","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 23:44:46.066","file":"apiserver/main.go:67","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"ERROR","timestamp":"2018-09-12 23:47:54.766","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-12 23:47:54.767","file":"apiserver/main.go:66","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 23:47:54.768","file":"apiserver/main.go:63","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-12 23:55:27.091","file":"middleware/logging.go:83","msg":"115.049µs     | ::1          | GET /v1/user/jarvis | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2018-09-12 23:55:27.953","file":"middleware/logging.go:83","msg":"83.607µs      | ::1          | GET /v1/user/jarvis | {code: 20103, message: The token was invalid.}"}
+{"level":"ERROR","timestamp":"2018-09-12 23:56:28.318","file":"middleware/logging.go:75","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2018-09-12 23:56:28.318","file":"middleware/logging.go:83","msg":"83.17µs       | ::1          | POST /v1/user/login | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2018-09-12 23:56:43.345","file":"middleware/logging.go:83","msg":"102.884482ms  | ::1          | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-12 23:57:27.012","file":"middleware/logging.go:83","msg":"89.685µs      | ::1          | GET /v1/user/jarvis | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2018-09-12 23:58:34.161","file":"middleware/logging.go:83","msg":"93.406216ms   | ::1          | GET /v1/user/jarvis | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-12 23:58:40.032","file":"middleware/logging.go:83","msg":"36.325898ms   | ::1          | GET /v1/user/jarvis | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-12 23:59:02.991","file":"middleware/logging.go:83","msg":"52.563941ms   | ::1          | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-13 00:11:08.290","file":"middleware/logging.go:83","msg":"60.386µs      | ::1          | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"ERROR","timestamp":"2018-09-13 11:48:45.466","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-13 11:48:45.467","file":"apiserver/main.go:76","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-13 11:48:45.467","file":"apiserver/main.go:71","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-13 11:48:45.470","file":"apiserver/main.go:63","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-13 11:48:53.053","file":"middleware/logging.go:83","msg":"91.572873ms   | ::1          | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-13 11:49:06.237","file":"middleware/logging.go:83","msg":"155.790313ms  | ::1          | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-13 11:49:41.291","file":"middleware/logging.go:83","msg":"60.601819ms   | ::1          | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-13 11:54:12.460","file":"middleware/logging.go:83","msg":"95.305093ms   | ::1          | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-13 11:54:50.706","file":"middleware/logging.go:83","msg":"61.9441ms     | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2018-09-13 13:02:14.631","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-13 13:02:14.633","file":"apiserver/main.go:75","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-13 13:02:14.633","file":"apiserver/main.go:70","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-13 13:02:14.635","file":"apiserver/main.go:62","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-13 13:02:22.055","file":"middleware/logging.go:84","msg":"109.479231ms  | ::1          | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-13 13:02:23.288","file":"middleware/logging.go:84","msg":"107.195411ms  | ::1          | POST /login | {code: 0, message: OK}"}
