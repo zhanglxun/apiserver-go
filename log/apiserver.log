@@ -144,3 +144,38 @@
 {"level":"INFO","timestamp":"2018-09-13 13:02:14.635","file":"apiserver/main.go:62","msg":"The router has been deployed successfully."}
 {"level":"INFO","timestamp":"2018-09-13 13:02:22.055","file":"middleware/logging.go:84","msg":"109.479231ms  | ::1          | POST /login | {code: 0, message: OK}"}
 {"level":"INFO","timestamp":"2018-09-13 13:02:23.288","file":"middleware/logging.go:84","msg":"107.195411ms  | ::1          | POST /login | {code: 0, message: OK}"}
+{"level":"ERROR","timestamp":"2018-09-14 00:21:40.149","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-14 00:21:40.150","file":"apiserver/main.go:92","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 00:21:40.150","file":"apiserver/main.go:87","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-14 00:21:40.151","file":"apiserver/main.go:79","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2018-09-14 00:22:39.087","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-14 00:22:39.087","file":"apiserver/main.go:92","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 00:22:39.087","file":"apiserver/main.go:106","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-14 00:22:39.087","file":"apiserver/main.go:87","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-14 00:22:40.090","file":"apiserver/main.go:79","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2018-09-14 00:23:19.633","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-14 00:23:19.633","file":"apiserver/main.go:92","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 00:23:19.633","file":"apiserver/main.go:87","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-14 00:23:19.635","file":"apiserver/main.go:79","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2018-09-14 01:58:29.458","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-14 01:58:29.460","file":"apiserver/main.go:92","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 01:58:29.460","file":"apiserver/main.go:87","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-14 01:58:29.461","file":"apiserver/main.go:79","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2018-09-14 02:02:04.573","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-14 02:02:04.573","file":"apiserver/main.go:92","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 02:02:04.574","file":"apiserver/main.go:87","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-14 02:02:04.574","file":"apiserver/main.go:93","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"ERROR","timestamp":"2018-09-14 02:15:46.196","file":"model/init.go:32","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-14 02:15:46.197","file":"apiserver/main.go:92","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 02:15:46.197","file":"apiserver/main.go:87","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-14 02:15:46.198","file":"apiserver/main.go:79","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 02:16:45.791","file":"middleware/logging.go:84","msg":"214.876µs     | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:20:22.024","file":"middleware/logging.go:84","msg":"97.984µs      | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:20:45.624","file":"middleware/logging.go:84","msg":"63.002µs      | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:21:19.454","file":"middleware/logging.go:84","msg":"89.520976ms   | ::1          | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-14 02:22:12.121","file":"middleware/logging.go:84","msg":"105.467µs     | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:22:13.600","file":"middleware/logging.go:84","msg":"65.361µs      | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:22:26.768","file":"middleware/logging.go:84","msg":"125.533µs     | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:22:54.384","file":"middleware/logging.go:84","msg":"110.103µs     | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:22:55.304","file":"middleware/logging.go:84","msg":"110.107µs     | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
+{"level":"INFO","timestamp":"2018-09-14 02:22:56.985","file":"middleware/logging.go:84","msg":"77.853µs      | ::1          | POST /login | {code: 10002, message: Error occurred while binding the request body to the struct.}"}
